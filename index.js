@@ -1,1 +1,2 @@
-console.log('node running in docker!');
+
+const diff = 'a new diff';
